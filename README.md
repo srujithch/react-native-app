@@ -5,13 +5,13 @@ If you do not have git then install git in your system from the url.(https://git
 Installation
 First, let's install expo-cli. expo-cli is a command-line tool for easily starting a new React Native project.
 
-npm install -g expo-cli
+    npm install -g expo-cli
 
 Now use git to clone the project into your local directory and run the project:
 
-git clone https://github.com/srujithch/react-native-app.git
-cd react-native-app
-npm start
+    git clone https://github.com/srujithch/react-native-app.git 
+    cd react-native-app
+    npm start
 
 expo-cli might take a few minutes to download dependencies. You should see a QR code after it's done.
 
